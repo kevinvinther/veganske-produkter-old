@@ -1,0 +1,29 @@
+# Partly created by https://www.toptal.com/developers/gitignore/api/react
+# Edit at https://www.toptal.com/developers/gitignore?templates=react
+.DS_*
+.idea
+*.log
+tmp/
+
+*.tern-port
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tsbuildinfo
+.npm
+.eslintcache
+
+logs
+**/*.backup.*
+**/*.back.*
+
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+# End of https://www.toptal.com/developers/gitignore/api/react

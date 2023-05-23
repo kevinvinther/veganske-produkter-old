@@ -1,0 +1,28 @@
+[
+        {
+                "title": "Salte Fisk",
+                "image": "salte_fisk.jpg",
+                "description": "Salte fisk fra Katjes",
+                "proof_text": "Det står på pakken",
+                "proof_image": "",
+                "category": "Slik",
+                "locations": [
+                        "Netto",
+                        "Fakta",
+                        "Føtex"
+                ]
+        },
+        {
+                "title": "Oreo",
+                "image": "oreo.jpeg",
+                "description": "De helt normale, velkendte oreos er veganske.",
+                "proof_text": "På trods af at mange tror der er mælk i, er der ingen mælk",
+                "proof_image": "",
+                "category": "Snacks",
+                "locations": [
+                        "Netto",
+                        "Fakta",
+                        "Føtex"
+                ]
+        }
+]
