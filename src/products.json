@@ -604,5 +604,1175 @@
                         "Slik",
                         "Lakrids"
                 ]
+        },
+        {
+                "title": "NATURLI' Økologisk Smørbar",
+                "image": "smoerbar-200g-top.png",
+                "description": "NATURLI' Økologisk Smørbar er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Naturli' Økologisk Smørbar 2kg",
+                "image": "plante_smoerbar_2kg.png",
+                "description": "Naturli' Økologisk Smørbar 2kg er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' økologisk Vegan Block",
+                "image": "naturli-block-2022.png",
+                "description": "NATURLI' økologisk Vegan Block er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Iskaffe",
+                "image": "oeko_iskaffe_990ml.png",
+                "description": "NATURLI’ Iskaffe er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Strawberry Drink",
+                "image": "strawberry_drink_330ml_pack.png",
+                "description": "NATURLI’ Strawberry Drink er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Organic Oat Barista",
+                "image": "naturli_oat_barista_organiccut.png",
+                "description": "NATURLI’ Organic Oat Barista er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Oat Barista Tasty Caramel",
+                "image": "oat_barista_caramel_03cut.png",
+                "description": "NATURLI’ Oat Barista Tasty Caramel er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Ice Coffee",
+                "image": "ice-coffee_double-intense-1.png",
+                "description": "NATURLI' Ice Coffee er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Oat Cocoa",
+                "image": "oat-cocoa.png",
+                "description": "NATURLI' Oat Cocoa er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Do Not Call Me M_lk",
+                "image": "m_lk_packshot.png",
+                "description": "NATURLI' Do Not Call Me M_lk er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Havre Kakao",
+                "image": "2022_havre_kakao_drik_4_990ml_dk-2.png",
+                "description": "NATURLI' Havre Kakao er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Økologisk Havredrik",
+                "image": "havre_drik_990ml_dk-2.png",
+                "description": "NATURLI' Økologisk Havredrik er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Økologisk Mandeldrik",
+                "image": "mandel_drik_990ml_dk-1.png",
+                "description": "NATURLI' Økologisk Mandeldrik er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Økologisk Havredrik",
+                "image": "naturli_├©ko_havre_drik.png",
+                "description": "NATURLI' Økologisk Havredrik er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Almond Drink",
+                "image": "2022_naturli_almond_drink.png",
+                "description": "NATURLI' Almond Drink er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Økologisk Soyadrik Vanilje",
+                "image": "naturli_├©ko_soya_vanilje_drik.png",
+                "description": "NATURLI' Økologisk Soyadrik Vanilje er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Oat Barista",
+                "image": "naturli_oat_barista.png",
+                "description": "NATURLI' Oat Barista er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Oat Plus",
+                "image": "naturli_oat_plus-2.png",
+                "description": "NATURLI' Oat Plus er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Økologisk Soyadrik usødet",
+                "image": "naturli_├©ko_soya_us├©det_drik.png",
+                "description": "NATURLI' Økologisk Soyadrik usødet er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Økologisk Soyadrik m. kakao",
+                "image": "naturli_├©ko_kakao_drik.png",
+                "description": "NATURLI' Økologisk Soyadrik m. kakao er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Økologisk Risdrik",
+                "image": "naturli_├©ko_ris_drik.png",
+                "description": "NATURLI' Økologisk Risdrik er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Cookie Dough Deluxe",
+                "image": "naturli_cookie_dough_480ml-1.png",
+                "description": "NATURLI' Cookie Dough Deluxe er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Chocos Marcipanos",
+                "image": "naturli_choco_marzipan_480ml_4.png",
+                "description": "NATURLI' Chocos Marcipanos er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Caramellow",
+                "image": "naturli_caramellow_480ml.png",
+                "description": "NATURLI' Caramellow er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Caramellow",
+                "image": "caramellow_3d_b.png",
+                "description": "NATURLI’ Caramellow er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Cherry Dream",
+                "image": "cherry-dream.gif",
+                "description": "Cherry Dream er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Strawberry Boogie",
+                "image": "strawberry_boogie_3d_bb.png",
+                "description": "Strawberry Boogie er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Cookie Dough",
+                "image": "cookie_dough_3d_b-1.png",
+                "description": "Cookie Dough er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Isalamande",
+                "image": "naturliôçö_isalamande_750ml_800.png",
+                "description": "NATURLI' Isalamande er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Rumball",
+                "image": "naturli-rum-ball-750-800.png",
+                "description": "NATURLI' Rumball er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI´ Naturella",
+                "image": "naturli_naturella_750ml_800.png",
+                "description": "NATURLI´ Naturella er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Rocky Road",
+                "image": "rocky-road_800.png",
+                "description": "NATURLI' Rocky Road er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Freezy’Frutti",
+                "image": "freezy_frutti.png",
+                "description": "NATURLI' Freezy’Frutti er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Bananawama",
+                "image": "naturli-bananawama.png",
+                "description": "NATURLI' Bananawama er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Brownie Buzz",
+                "image": "brownie_buzz_3d_b-1.png",
+                "description": "Brownie Buzz er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Dark And Creamy Soft Core isvafler",
+                "image": "dark_and_creamy_3d_b-1.png",
+                "description": "Dark And Creamy Soft Core isvafler er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Solbærdrøm isvafler",
+                "image": "solbaerdroem.png",
+                "description": "Solbærdrøm isvafler er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Salty Caramel isvafler",
+                "image": "salty_caramel_3d_b.png",
+                "description": "Salty Caramel isvafler er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Cookie Dough på risdrik",
+                "image": "15.-naturli_cookie_dough-1.png",
+                "description": "Cookie Dough på risdrik er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Double Trouble",
+                "image": "16.-naturli_double_trouble-1.png",
+                "description": "NATURLI' Double Trouble er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Peanut Go Nuts!",
+                "image": "peanut_go_nuts.png",
+                "description": "NATURLI' Peanut Go Nuts! er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Chocolate with Caramel & Rum",
+                "image": "naturli_chocolate_caramel_rum.png",
+                "description": "Chocolate with Caramel & Rum er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Blackcurrant with Choco Flakes",
+                "image": "1.-naturli_blackcurrant-1.png",
+                "description": "Blackcurrant with Choco Flakes er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Saltkaramel på Risdrik",
+                "image": "8.-naturli_rice_salty_caramel-1.png",
+                "description": "Saltkaramel på Risdrik er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Salty Caramel Roasted Almonds",
+                "image": "5.-naturli_salty_caramel-1.png",
+                "description": "Salty Caramel Roasted Almonds er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Ice Dream Raspberry & Chocolate",
+                "image": "4.-naturli_raspberry.png",
+                "description": "NATURLI' Ice Dream Raspberry & Chocolate er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Ice Dream Liquorice Sweet Bites",
+                "image": "3.-naturli_liquorice.png",
+                "description": "NATURLI' Ice Dream Liquorice Sweet Bites er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' SOFT N'ICE",
+                "image": "soft-nice-updated.png",
+                "description": "NATURLI' SOFT N'ICE er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Blueberry",
+                "image": "blueberry_0_5_liter.png",
+                "description": "NATURLI’ Blueberry er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Strawberry",
+                "image": "strawberry_0_5_liter.png",
+                "description": "NATURLI’ Strawberry er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' JOE' KURT - Vanilje",
+                "image": "naturli_joe_kurt_vanilla-1.png",
+                "description": "NATURLI' JOE' KURT - Vanilje er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' JOE' KURT - Blåbær",
+                "image": "naturli_joe_kurt_blueberry-1.png",
+                "description": "NATURLI' JOE' KURT - Blåbær er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' JOE' KURT - Naturel",
+                "image": "naturli_joe_kurt_natural.png",
+                "description": "NATURLI' JOE' KURT - Naturel er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' JOE' KURT - Pære Banan",
+                "image": "naturli_joe_kurt_pear_banana.png",
+                "description": "NATURLI' JOE' KURT - Pære Banan er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' JOE' KURT - Jordbær",
+                "image": "naturli_joe_kurt_strawberry-1.png",
+                "description": "NATURLI' JOE' KURT - Jordbær er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' økologisk Plantepålæg á la Bresaola",
+                "image": "2022_a_la_bresaola.png",
+                "description": "NATURLI' økologisk Plantepålæg á la Bresaola er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' økologisk Plantepålæg A la Cotto",
+                "image": "2022_a_la_cotto.png",
+                "description": "NATURLI' økologisk Plantepålæg A la Cotto er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Kebab’ish",
+                "image": "front_kebabish_pizza.png",
+                "description": "NATURLI’ Kebab’ish er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Chili Sin Carne",
+                "image": "naturli_frost_chili_front.png",
+                "description": "NATURLI' Chili Sin Carne er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Pasta Bolog'nice",
+                "image": "naturli_frost_bolognice_front.png",
+                "description": "NATURLI' Pasta Bolog'nice er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Kebab Style Strips",
+                "image": "kebab-style-strips.png",
+                "description": "NATURLI’ Kebab Style Strips er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Falafel 350g",
+                "image": "falafel.png",
+                "description": "NATURLI' Falafel 350g er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Hakket",
+                "image": "hakket.png",
+                "description": "NATURLI' Hakket er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Hakkedrenge",
+                "image": "hakkedrenge.png",
+                "description": "NATURLI' Hakkedrenge er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Pipfri",
+                "image": "pipfri.png",
+                "description": "NATURLI' Pipfri er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Nuggets",
+                "image": "nuggets.png",
+                "description": "NATURLI' Nuggets er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Supreme Burgers",
+                "image": "supreme_burgers_dkfi_frontal.png",
+                "description": "NATURLI' Supreme Burgers er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Pizza Capricciosa",
+                "image": "pizza_capricciosa.png",
+                "description": "NATURLI’ Pizza Capricciosa er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Pizza Mexicana",
+                "image": "pizza_mexicana.png",
+                "description": "NATURLI’ Pizza Mexicana er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Pizza Tex Mex",
+                "image": "naturli_tex_mex_mini-pizza-2.png",
+                "description": "NATURLI' Pizza Tex Mex er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Pizza Vesuvio",
+                "image": "naturli_vesuvio_mini-pizza-1.png",
+                "description": "NATURLI' Pizza Vesuvio er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Sausage Rolls",
+                "image": "naturli_sausage_rolls.png",
+                "description": "NATURLI' Sausage Rolls er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Chick Free Magic",
+                "image": "chickfree-magic.png",
+                "description": "NATURLI' Chick Free Magic er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Minced Shapeable",
+                "image": "naturli_shapeable_minced_pea.png",
+                "description": "NATURLI' Minced Shapeable er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Chick Free Nuggets",
+                "image": "naturli_nuggets.png",
+                "description": "NATURLI' Chick Free Nuggets er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Falafel",
+                "image": "naturli_falafel.png",
+                "description": "NATURLI’ Falafel er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Veggie Balls",
+                "image": "naturli_veggie_balls.png",
+                "description": "NATURLI’ Veggie Balls er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Sausages",
+                "image": "naturli_sausages.png",
+                "description": "NATURLI’ Sausages er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Schnitzel",
+                "image": "naturli_schnitzel.png",
+                "description": "NATURLI’ Schnitzel er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Shape Me! Minced",
+                "image": "naturli_shape_me_minced_soy.png",
+                "description": "NATURLI’ Shape Me! Minced er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Burgers",
+                "image": "naturli_burgers.png",
+                "description": "NATURLI’ Burgers er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' økologiske Seitan skiver",
+                "image": "ny_seitan_pack.png",
+                "description": "NATURLI' økologiske Seitan skiver er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Thousand Island",
+                "image": "naturli_thousand_island_255g.png",
+                "description": "NATURLI’ Thousand Island er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Aioli",
+                "image": "naturli_aioli_255g.png",
+                "description": "NATURLI’ Aioli er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI’ Oat Cuisine 330 ml",
+                "image": "oat-cuisine-330-ml-cut.png",
+                "description": "NATURLI’ Oat Cuisine 330 ml er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Sriracha Mayo",
+                "image": "naturli-sriracha.png",
+                "description": "NATURLI' Sriracha Mayo er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Creme Fresh",
+                "image": "naturli-dressing.png",
+                "description": "NATURLI' Creme Fresh er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Bearnaise",
+                "image": "naturli_sauce_bearnaise.png",
+                "description": "NATURLI' Bearnaise er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' Ravioli Butternut Squash & Salvie",
+                "image": "ravioli_squash.png",
+                "description": "NATURLI' Ravioli Butternut Squash & Salvie er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "NATURLI' økologisk Ravioli Basillikum",
+                "image": "ravioli_basilikum-1.png",
+                "description": "NATURLI' økologisk Ravioli Basillikum er vegansk.",
+                "proof_text": "Alt fra naturlig er vegansk.",
+                "proof_image": "",
+                "category": [
+                        ""
+                ],
+                "locations": [
+                        ""
+                ]
         }
 ]
