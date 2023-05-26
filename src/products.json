@@ -5,7 +5,9 @@
                 "description": "Salte fisk fra Katjes",
                 "proof_text": "Det står på pakken",
                 "proof_image": "",
-                "category": "Slik",
+                "category": [
+                        "Slik"
+                ],
                 "locations": [
                         "Netto",
                         "Fakta",
@@ -15,14 +17,592 @@
         {
                 "title": "Oreo",
                 "image": "oreo.jpeg",
-                "description": "De helt normale, velkendte oreos er veganske.",
-                "proof_text": "På trods af at mange tror der er mælk i, er der ingen mælk",
+                "description": "Oreos er veganske.",
+                "proof_text": "Der er ingen animalske produkter i.",
                 "proof_image": "",
-                "category": "Snacks",
+                "category": [
+                        "Snacks"
+                ],
                 "locations": [
                         "Netto",
                         "Fakta",
                         "Føtex"
+                ]
+        },
+        {
+                "title": "Beyond Meatballs",
+                "image": "beyond_meatballs.png",
+                "description": "Beyonds køderstatninger er veganske.",
+                "proof_image": "",
+                "proof_text": "Det står på pakken.",
+                "category": [
+                        "Køderstatning",
+                        "Mad"
+                ],
+                "locations": [
+                        "GreenOS"
+                ]
+        },
+        {
+                "title": "Beyond Sausage",
+                "image": "beyond_sausage.webp",
+                "description": "Beyonds køderstatninger er veganske.",
+                "proof_text": "Det står på pakken.",
+                "proof_image": "",
+                "category": [
+                        "Køderstatning",
+                        "Mad"
+                ],
+                "locations": [
+                        "GreenOS"
+                ]
+        },
+        {
+                "title": "Beyond Burger",
+                "image": "beyond_burger.webp",
+                "description": "Beyonds køderstatninger er veganske.",
+                "proof_text": "Det står på pakken.",
+                "proof_image": "",
+                "category": [
+                        "Køderstatning",
+                        "Mad"
+                ],
+                "locations": [
+                        "GreenOS"
+                ]
+        },
+        {
+                "title": "Beyond Mince",
+                "image": "beyond_mince.webp",
+                "description": "Beyonds køderstatninger er veganske.",
+                "proof_text": "Det står på pakken.",
+                "proof_image": "",
+                "category": [
+                        "Køderstatning",
+                        "Mad"
+                ],
+                "locations": [
+                        "GreenOS"
+                ]
+        },
+        {
+                "title": "Hanegal Plantepostej",
+                "image": "hanegal-plantepostej.png",
+                "description": "En vegansk postej fra hanegal lavet på champignon, løg og allehånde",
+                "proof_text": "Det står på pakken.",
+                "proof_image": "",
+                "category": [
+                        "Pålæg",
+                        "Postej",
+                        "Glutenfri"
+                ],
+                "locations": [
+                        "Bilka",
+                        "Kvickly",
+                        "SuperBrugsen",
+                        "Fakta",
+                        "Irma",
+                        "Føtex",
+                        "Meny",
+                        "SPAR",
+                        "Min Købmand",
+                        "Let-Køb",
+                        "coop.dk MAD",
+                        "nemlig.com"
+                ]
+        },
+        {
+                "title": "Rittersport Marcipan Chokolade",
+                "image": "rittersport-marcipan.jpg",
+                "description": "Marcipanchokolade fra rittersport er vegansk.",
+                "proof_text": "Der er ingen animalske ingredienser i.",
+                "proof_image": "",
+                "category": [
+                        "Slik",
+                        "Chokolade"
+                ],
+                "locations": [
+                        "Netto",
+                        "Fakta",
+                        "Føtex"
+                ]
+        },
+        {
+                "title": "Næmt Wraps Falafel og Hummus",
+                "image": "naemt-wraps-falafel-og-hummus.png",
+                "description": "Wraps fra Næmt med falafel og hummus",
+                "proof_text": "Der er ingen animalske ingredienser",
+                "proof_image": "",
+                "category": [
+                        "Nem Mad"
+                ],
+                "locations": [
+                        "Netto"
+                ]
+        },
+        {
+                "title": "Levebrød Kernegrov",
+                "image": "26080---kernegrov-475g-2000-x-2000-pixel.jpg",
+                "description": "Levebrød Kernegrov er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Det Gode Økologiske Solsikkerugbrød",
+                "image": "26410---solsikkerugbrod-500g-oko-2000-x-2000-pixel.jpg",
+                "description": "Det Gode Økologiske Solsikkerugbrød er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Schulstad Mørkt Sønderjysk",
+                "image": "10556_sch_sonderjysk_morkt_8_sk_375g.jpg",
+                "description": "Schulstad Mørkt Sønderjysk er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Schulstad Schwarzbrød",
+                "image": "25557---schwarzbrod-1000g-2000-x-2000-pixel.jpg",
+                "description": "Schulstad Schwarzbrød er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Levebrød Kernegrov",
+                "image": "20136---kernegrov-950g-2000-x-2000-pixel.jpg",
+                "description": "Levebrød Kernegrov er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Levebrød Økologisk Kernegrov",
+                "image": "26409---kernegrov-600g-oko-2000-x-2000-pixel.jpg",
+                "description": "Levebrød Økologisk Kernegrov er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Schulstad Slesviger Bondebrød",
+                "image": "10506_sch_slesviger_bondebrod_8_sk_400g.jpg",
+                "description": "Schulstad Slesviger Bondebrød er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Signaturbrød – Sol over Gudhjem",
+                "image": "26435---sol-over-gudhjem-750g-2000-x-2000-pixel.jpg",
+                "description": "Signaturbrød – Sol over Gudhjem er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Kornkammeret Økologisk Solsikkerugbrød",
+                "image": "24297---solsikkerugbrod-500g-2000-x-2000-pixel.jpg",
+                "description": "Kornkammeret Økologisk Solsikkerugbrød er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Det Gode Gulerodsrugbrød",
+                "image": "26009---gulerods-rugbrod-925g-2000-x-2000-pixel.jpg",
+                "description": "Det Gode Gulerodsrugbrød er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Det Gode Groft Solsikkerugbrød",
+                "image": "26288_dg_groft_solsikke_1080g.jpg",
+                "description": "Det Gode Groft Solsikkerugbrød er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Skovmand Rugbrød",
+                "image": "25254---skovmand-500g-2000-x-2000-pixel.jpg",
+                "description": "Skovmand Rugbrød er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Kornkammeret Økologisk Kernerugbrød",
+                "image": "26029---kernerugbrod-500g-2000-x-2000-pixel.jpg",
+                "description": "Kornkammeret Økologisk Kernerugbrød er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Det Gode Solsikkerugbrød",
+                "image": "19291---solsikke-rugbrod-950g-2000-x-2000-pixel.jpg",
+                "description": "Det Gode Solsikkerugbrød er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Det Gode Solsikkerugbrød",
+                "image": "19314---solsikke-rugbrod-475g-2000-x-2000-pixel.jpg",
+                "description": "Det Gode Solsikkerugbrød er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Signaturbrød - Bryghuset Møn",
+                "image": "26395---bryghuset-mon-700g-2000-x-2000-pixel.jpg",
+                "description": "Signaturbrød - Bryghuset Møn er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Signaturbrød - Restaurant Gilleleje Havn",
+                "image": "26371---gilleleje-havn-750g-2000-x-2000-pixel.jpg",
+                "description": "Signaturbrød - Restaurant Gilleleje Havn er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Levebrød Gulerodsbrød",
+                "image": "26105---gulerodsrugbrod-800g-2000-x-2000-pixel.jpg",
+                "description": "Levebrød Gulerodsbrød er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Det Gode Gulerodsrugbrød",
+                "image": "221935.jpg",
+                "description": "Det Gode Gulerodsrugbrød er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Schulstad Softkerne Rugbrød 650g",
+                "image": "223791_softkernerugbrod_650g.jpg",
+                "description": "Schulstad Softkerne Rugbrød 650g er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Schulstad Rugkerne Rugbrød 750g",
+                "image": "223792_rugkernerugbrod_750g.jpg",
+                "description": "Schulstad Rugkerne Rugbrød 750g er vegansk.",
+                "proof_text": "https://www.schulstad.dk/vores-brod/alle-brod/rugbrod/vegansk/",
+                "proof_image": "",
+                "category": [
+                        "Brød"
+                ],
+                "locations": [
+                        ""
+                ]
+        },
+        {
+                "title": "Schulstad Det Gode Solsikkeboller",
+                "description": "Schulstad Det Gode Solsikkeboller er vegansk.",
+                "image": "schulstad-solsikkeboller.jpg",
+                "proof_text": "Der er ingen animalske ingredienser i. Ingrediensliste:\nHVEDEMEL, vand, solsikkekerner 7%, revne gulerødder 7%, sukker, FULDKORNSHVEDEMEL 3%, rapsolie, HVEDEGLUTEN, eddike, gær, salt tilsat jod, sigtet RUGMEL, emulgator (vegetabilsk E471, vegetabilsk E472e), HVEDEMALTMEL og melbehandlingsmiddel (E300), BYGMALTMEL.",
+                "proof_image": "",
+                "category": [
+                        "Boller",
+                        "Brød"
+                ],
+                "locations": [
+                        "Netto",
+                        "Bilka"
+                ]
+        },
+        {
+                "title": "Hanegal Kebab Fyld",
+                "description": "Kebabfyld er ideelt i pitabrød og wraps eller som pizzatopping. Det er krydret med paprika, hvidløg, spidskommen, chili og tomat – præcis som det klassiske kebab kød.",
+                "image": "hanegal-kebab-fyld.png",
+                "proof_text": "https://hanegal.dk/produkter/plantebaseret-fyld/",
+                "proof_image": "",
+                "category": [
+                        "Fyld",
+                        "Køderstatning"
+                ],
+                "locations": [
+                        "Mangler"
+                ]
+        },
+        {
+                "title": "Hanegal Mexi Fyld",
+                "description": "Mexifyld er det helt rigtige i tacos, tortillas og nachos. Det er krydret med koriander, spidskommen, paprika, chili løg og hvidløg – præcis som i det klassiske mexicanske køkken.",
+                "image": "hanegal-mexi-fyld.png",
+                "proof_text": "https://hanegal.dk/produkter/plantebaseret-fyld/",
+                "proof_image": "",
+                "category": [
+                        "Fyld",
+                        "Køderstatning"
+                ],
+                "locations": [
+                        "Mangler"
+                ]
+        },
+        {
+                "title": "Hanegal Planteburger",
+                "description": "En smagfuld plantebaseret burger. Smagt til med paprika og røget facon, der tilføjer en tilfredsstillende smag af umami. Særlig velegnet til burger. ",
+                "image": "hanegal-planteburger.jpg",
+                "proof_text": "https://hanegal.dk/produkter/tilbehoer/planteburger/",
+                "proof_image": "",
+                "category": [
+                        "Burger",
+                        "Køderstatning"
+                ],
+                "locations": [
+                        "Kvickly",
+                        "SuperBrugsen"
+                ]
+        },
+        {
+                "title": "Hanegal Mexican Style Chunks",
+                "description": "Stærkt krydrede chunks med inspiration fra det mexicanske køkken. ",
+                "image": "hanegal-mexican-chunks.png",
+                "proof_text": "https://hanegal.dk/produkter/tilbehoer/mexican-style-chunks/",
+                "proof_image": "",
+                "category": [
+                        "Køderstatning",
+                        "Glutenfri"
+                ],
+                "locations": [
+                        "Kvickly",
+                        "SuperBrugsen",
+                        "Irma"
+                ]
+        },
+        {
+                "title": "Hanegal Smokey Barbecue Chunks",
+                "description": "Saftlige chunks i barbecuemarinade. Røget i rygeovn.",
+                "image": "hanegal-smokey-chunks.png",
+                "proof_text": "https://hanegal.dk/produkter/tilbehoer/smokey-barbecue-chunks/",
+                "proof_image": "",
+                "locations": [
+                        "Kvickly",
+                        "SuperBrugsen",
+                        "Irma"
+                ],
+                "category": [
+                        "Køderstatning",
+                        "Glutenfri"
+                ]
+        },
+        {
+                "title": "Hanegal Moroccan Style Chunks",
+                "description": "Krydrede chunks med kraftfuld smag fra det nordafrikanske køkken.",
+                "image": "hanegal-moroccan-chunks.png",
+                "proof_text": "https://hanegal.dk/produkter/tilbehoer/moroccan-style-chunks/",
+                "proof_image": "",
+                "locations": [
+                        "Kvickly",
+                        "SuperBrugsen",
+                        "Irma"
+                ],
+                "category": [
+                        "Køderstatning",
+                        "Glutenfri"
+                ]
+        },
+        {
+                "title": "Hanegal Thai Style Chunks",
+                "description": "Krydrede chunks med inspiration fra det thailandske køkken.",
+                "image": "hanegal-thai-chunks.png",
+                "proof_text": "https://hanegal.dk/produkter/tilbehoer/thai-style-chunks/",
+                "proof_image": "",
+                "locations": [
+                        "Kvickly",
+                        "SuperBrugsen",
+                        "Irma"
+                ],
+                "category": [
+                        "Køderstatning",
+                        "Glutenfri"
+                ]
+        },
+        {
+                "title": "Hanegal Plantepostej Facon",
+                "description": "Cremet plantepostej med facon der giver en røget og saltet smag som traditionel bacon.",
+                "image": "hanegal-plantepostej-facon.png",
+                "proof_text": "https://hanegal.dk/produkter/paalaeg/postejer/plantepostej-facon-2/",
+                "proof_image": "",
+                "locations": [
+                        "Nemlig"
+                ],
+                "category": [
+                        "Postej",
+                        "Glutenfri"
+                ]
+        },
+        {
+                "title": "Hanegal Bønnepostej",
+                "description": "Delikat postej af urter, bønner, quinoa og peberfrugt.",
+                "image": "hanegal-bønnepostej.png",
+                "proof_text": "https://hanegal.dk/produkter/paalaeg/postejer/boennepostej/",
+                "proof_image": "",
+                "locations": [
+                        "Kvickly",
+                        "SuperBrugsen",
+                        "Dagli'Brugsen",
+                        "Fakta",
+                        "Irma",
+                        "Føtex",
+                        "Meny",
+                        "SPAR",
+                        "Min Købmand",
+                        "Let-køb",
+                        "nemlig.com"
+                ],
+                "category": [
+                        "Postej",
+                        "Glutenfri"
+                ]
+        },
+        {
+                "title": "Yum Yum Kylling Instant Nudler i Kop",
+                "description": "Yum Yum Kylling Instant Nudler i kop, er trods deres navn, veganske.",
+                "image": "yumyum-kylling-kop.jpg",
+                "proof_text": "https://www.facebook.com/ErDetVegansk17/photos/a.1883152952013952/2257285717934005/?type=3",
+                "proof_image": "",
+                "locations": [
+                        ""
+                ],
+                "category": [
+                        "Nem Mad",
+                        "Mellemmåltid",
+                        "Nudler",
+                        "Glutenfri"
+                ]
+        },
+        {
+                "title": "Fazer Salmiakki Lakridspastiller",
+                "description": "Små Lakridspastiller fra Fazer",
+                "image": "fazer-salmiaki.jpg",
+                "proof_text": "Det står på pakken",
+                "proof_image": "",
+                "locations": [
+                        "Normal",
+                        "Netto",
+                        "SPAR"
+                ],
+                "category": [
+                        "Slik",
+                        "Lakrids"
                 ]
         }
 ]
