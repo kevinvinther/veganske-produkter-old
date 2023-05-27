@@ -1,18 +1,13 @@
 import React, { useState } from "react";
 import products from "./products.json";
+import ProductCard from "./components/ProductCard";
 import {
-        Col,
-        Input,
-        Row,
-        Card,
-        Tag,
-        Modal,
-        Layout,
-        Typography,
-        Button,
+  Col,
+  Input,
+  Row,
+  Layout,
+  Typography,
 } from "antd";
-import { LazyLoadImage } from "react-lazy-load-image-component";
-import 'react-lazy-load-image-component/src/effects/blur.css';
 
 import { SearchOutlined } from "@ant-design/icons";
 
@@ -20,149 +15,59 @@ const { Content } = Layout;
 const { Title } = Typography;
 
 const HomePage = () => {
-        const [searchTerm, setSearchTerm] = useState("");
-        const [visible, setVisible] = useState(false);
-        const [proofVisible, setProofVisible] = useState({});
-        const [image, setImage] = useState("");
-        const [imageVisible, setImageVisible] = useState({});
+  const [searchTerm, setSearchTerm] = useState("");
 
-        const handleSearchChange = (event) => {
-                setSearchTerm(event.target.value);
-        };
 
-        const sortedProducts = products.sort((a, b) =>
-                a.title < b.title ? -1 : a.title > b.title ? 1 : 0
-        );
+  const handleSearchChange = (event) => {
+    setSearchTerm(event.target.value);
+  };
 
-        const filteredProducts = sortedProducts.filter((product) =>
-                product.title.toLowerCase().includes(searchTerm.toLowerCase())
-        );
+  const sortedProducts = products.sort((a, b) =>
+    a.title < b.title ? -1 : a.title > b.title ? 1 : 0
+  );
 
-        return (
-                <Layout>
-                        <Content style={{ padding: "0px" }}>
-                                <Title level={2} style={{ textAlign: "center", color: "#595959" }}>
-                                        Veganske produkter
-                                </Title>
-                                <div
-                                        style={{
-                                                display: "flex",
-                                                justifyContent: "center",
-                                                marginBottom: "20px",
-                                        }}
-                                >
-                                        <Input
-                                                placeholder="Search by title"
-                                                onChange={handleSearchChange}
-                                                prefix={<SearchOutlined />}
-                                        />
-                                </div>
-                                <div
-                                        style={{
-                                                background: "#fff",
-                                                padding: 24,
-                                                minHeight: 380,
-                                                borderRadius: "25px",
-                                        }}
-                                >
-                                        <Row gutter={[16, 16]}>
-                                                {filteredProducts.map((product, index) => (
-                                                        <Col xs={24} sm={12} md={8} lg={6} xl={4} key={index}>
-                                                                <Card
-                                                                        hoverable
-                                                                        style={{ width: "100%", borderRadius: "15px" }}
-                                                                        cover={
-                                                                                <div
-                                                                                        style={{
-                                                                                                width: "100%",
-                                                                                                height: "150px",
-                                                                                                overflow: "hidden",
-                                                                                                display: "flex",
-                                                                                                justifyContent: "center",
-                                                                                                alignItems: "center",
-                                                                                        }}
-                                                                                >
-                                                                                        <LazyLoadImage
-                                                                                                alt={product.title}
-                                                                                                src={`./assets/${product.image}`}
-                                                                                                placeholderSrc={`${product.image.replace('.jpg', '_compressed.jpg')}`}
-                                                                                                effect="blur"
-                                                                                                style={{
-                                                                                                        width: "100%",
-                                                                                                        height: "100%",
-                                                                                                        objectFit: "cover",
-                                                                                                }}
-                                                                                                onClick={() => {
-                                                                                                        setImageVisible(true);
-                                                                                                        setImage(product);
-                                                                                                }}
-                                                                                        />
-                                                                                        <Modal
-                                                                                                visible={imageVisible && image === product}
-                                                                                                onOk={() => setImageVisible(false)}
-                                                                                                onCancel={() => setImageVisible(false)}
-                                                                                        >
-                                                                                                <LazyLoadImage
-                                                                                                        alt={product.title}
-                                                                                                        src={`/assets/${product.image}`}
-                                                                                                        placeholderSrc={`${product.image.replace('.jpg', '_compressed.jpg')}`}
-                                                                                                        effect="blur"
-                                                                                                        style={{
-                                                                                                                width: "100%",
-                                                                                                                height: "100%",
-                                                                                                                objectFit: "cover",
-                                                                                                        }}
-                                                                                                />
-                                                                                        </Modal>
-                                                                                </div>
-                                                                        }
-                                                                >
-                                                                        <Card.Meta
-                                                                                title={product.title}
-                                                                                description={product.description}
-                                                                        />
-                                                                        <p>
-                                                                                <strong>Kategorier: </strong>
-                                                                                {product.category.map((category, index) => (
-                                                                                        <Tag key={index} color="red">
-                                                                                                {category}
-                                                                                        </Tag>
-                                                                                ))}
-                                                                        </p>
-                                                                        <p>
-                                                                                <strong>Lokationer: </strong>
-                                                                                {product.locations.map((location, index) => (
-                                                                                        <Tag key={index} color="blue">
-                                                                                                {location}
-                                                                                        </Tag>
-                                                                                ))}
-                                                                        </p>
-                                                                        <Button
-                                                                                type="primary"
-                                                                                onClick={() => {
-                                                                                        setVisible(true);
-                                                                                        setProofVisible(product);
-                                                                                }}
-                                                                        >
-                                                                                Bevis
-                                                                        </Button>
-                                                                        <Modal
-                                                                                title="Bevis"
-                                                                                visible={visible && proofVisible === product}
-                                                                                onOk={() => setVisible(false)}
-                                                                                onCancel={() => setVisible(false)}
-                                                                        >
-                                                                                <LazyLoadImage alt="" src={product.proof_image} />
-                                                                                <p>{product.proof_text}</p>
-                                                                        </Modal>
-                                                                </Card>
-                                                        </Col>
-                                                ))}
-                                        </Row>
-                                </div>
-                        </Content>
-                </Layout>
-        );
+  const filteredProducts = sortedProducts.filter((product) =>
+    product.title.toLowerCase().includes(searchTerm.toLowerCase())
+  );
+
+  return (
+    <Layout>
+      <Content style={{ padding: "0px" }}>
+        <Title level={2} style={{ textAlign: "center", color: "#595959" }}>
+          Veganske produkter
+        </Title>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            marginBottom: "20px",
+          }}
+        >
+          <Input
+            placeholder="Search by title"
+            onChange={handleSearchChange}
+            prefix={<SearchOutlined />}
+          />
+        </div>
+        <div
+          style={{
+            background: "#fff",
+            padding: 24,
+            minHeight: 380,
+            borderRadius: "25px",
+          }}
+        >
+          <Row gutter={[16, 16]}>
+            {filteredProducts.map((product, index) => (
+              <Col xs={24} sm={12} md={8} lg={6} xl={4} key={index}>
+                <ProductCard product={filteredProducts[index]} />
+              </Col>
+            ))}
+          </Row>
+        </div>
+      </Content>
+    </Layout>
+  );
 };
 
 export default HomePage;
