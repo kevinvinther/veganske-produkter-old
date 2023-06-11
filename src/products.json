@@ -1774,5 +1774,97 @@
                 "locations": [
                         ""
                 ]
+        },
+        {
+                "title": "Rema 1000 Økologisk Hindbær Marmelade",
+                "image": "rema1000_hindbaer_marmelade.jpg",
+                "description": "Rema 1000 Økologisk Hindbær Marmelade er vegansk.",
+                "proof_text": "Der er ingen animalske ingredienser i.",
+                "proof_image": "",
+                "category": [
+                        "Marmelade"
+                ],
+                "locations": [
+                        "Rema 1000"
+                ]
+        },
+        {
+                "title": "Kelloggs Coco Pops",
+                "image": "cocopops.jpg",
+                "description": "De normale coco pops er veganske",
+                "proof_text": "Står på bagsiden",
+                "proof_image": "cocopops_proof.jpg",
+                "category": [
+                        "Morgenmad"
+                ],
+                "locations": [
+                        "Bilka"
+                ]
+        },
+        {
+                "title": "Dumle Cookie Mix",
+                "image": "dumlecookiemix.jpg",
+                "description": "Cookie Mix fra Dumle er vegansk.",
+                "proof_text": "Står på siden",
+                "proof_image": "dumlecookiemix_proof.jpg",
+                "category": [
+                        "Kager"
+                ],
+                "locations": [
+                        "Bilka"
+                ]
+        },
+        {
+                "title": "Fazer Tutti Frutti Original Treat",
+                "image": "fazertuttifrutti.jpg",
+                "description": "Fazer Tutti Frutti Original Treat er vegansk.",
+                "proof_text": "Det står på bagsiden",
+                "proof_image": "fazertuttifrutti_proof.jpg",
+                "category": [
+                        "Slik"
+                ],
+                "locations": [
+                        "Bilka"
+                ]
+        },
+        {
+                "title": "Karen Volf Økologiske Kammer Junkere",
+                "image": "karenvolfoekologiskekammerjunkere.jpg",
+                "description": "Bemærk at det kun er de økologiske kammerjunkere fra Karen Volf der er veganske.",
+                "proof_text": "Der er ingen animalske ingredienser i.",
+                "proof_image": "",
+                "category": [
+                        "Kager"
+                ],
+                "locations": [
+                        "Bilka"
+                ]
+        },
+        {
+                "title": "Salling Salsa Hot",
+                "image": "sallingsalsahot.jpg",
+                "description": "Stærk salsa fra salling er vegansk.",
+                "proof_text": "Der er ingen animalske ingredienser i.",
+                "proof_image": "",
+                "category": [
+                        "Dip"
+                ],
+                "locations": [
+                        "Bilka"
+                ]
+        },
+        {
+                "title": "Santa Maria Spice Mix For Bean & Corn Taco",
+                "image": "beancorn.jpg",
+                "description": "Santa Maria Spice Mix For Bean & Corn Taco er vegansk.",
+                "proof_text": "Der er ingen animalske ingredienser i.",
+                "proof_image": "",
+                "category": [
+                        "Spice Mix",
+                        "Tacos"
+                ],
+                "locations": [
+                        "Bilka"
+                ]
         }
 ]
