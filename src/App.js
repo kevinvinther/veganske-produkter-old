@@ -1,5 +1,5 @@
 import { lazy, Suspense } from 'react';
-import { Redirect, BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { Navigate, BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { Layout, Spin } from 'antd';
 import TopNavigation from './TopNavigation';
 
@@ -9,13 +9,6 @@ const ContactPage = lazy(() => import('./ContactPage'));
 const { Header, Content, Footer } = Layout;
 
 function App() {
-        // Check if the current protocol is not HTTPS
-        const isHTTP = window.location.protocol === 'http:';
-
-        // If it's not HTTPS, redirect to the secure version
-        if (isHTTP) {
-                return <Redirect to={`https://${window.location.host}${window.location.pathname}`} />;
-        }
         return (
                 <Router>
                         <Layout className="layout" style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
